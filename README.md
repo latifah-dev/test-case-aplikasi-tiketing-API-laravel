@@ -1,6 +1,6 @@
 Flow Aplikasi Tiketing : <br>
     1. Agen mengakses aplikasi tiketing melalui website atau aplikasi mobile.<br>
-    2. Aplikasi menampilkan halaman login, agen memasukkan username dan password untuk masuk ke halaman utama aplikasi.<br>
+    2. Aplikasi menampilkan halaman login, agen memasukkan username dan password untuk masuk ke halaman utama aplikasi. jika belum  memiliki akun dapat register terlebih dahulu<br>
     3. Aplikasi menampilkan halaman utama aplikasi yang berisi menu-menu yang tersedia, termasuk menu untuk melakukan pemesanan tiket.<br>
     4. Agen memilih menu untuk melakukan pemesanan tiket.<br>
     5. Aplikasi menampilkan halaman pemesanan tiket yang meminta agen untuk memilih kota asal, kota tujuan, tanggal keberangkatan, dan kelas yang diinginkan atas nama pembeli.<br>
@@ -15,4 +15,6 @@ Flow Aplikasi Tiketing : <br>
     14. Setelah pembayaran berhasil, aplikasi akan mengirimkan tiket elektronik ke email atau nomor handphone yang diisi oleh agen atas nama pembeli.<br>
     15. Agen menunjukkan tiket elektronik atau informasi tiket kepada pembeli.<br>
     16. Pembeli menunjukkan tiket elektronik atau informasi tiket saat naik bus.<br>
-    17. Setiap kali armada bus berangkat, informasi tentang armada dan jadwal perjalanan diperbarui dalam aplikasi tiketing dan jumlah tiket yang tersedia akan dikurangi sesuai dengan jumlah tiket yang terjual pada jadwal bus tersebut.<br>
+    17. Setiap kali armada bus berangkat, informasi tentang armada dan jadwal perjalanan diperbarui dalam aplikasi tiketing dan jumlah tiket yang tersedia akan dikurangi sesuai dengan jumlah tiket yang terjual pada jadwal bus tersebut.<br><br><br>
+desain database <br>
+<img src="https://github.com/Tifarin/test-case-aplikasi-tiketing-API-laravel/blob/main/tiketingDB%20-%20public.png">
